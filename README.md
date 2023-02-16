@@ -1,6 +1,6 @@
 # Image Filter
 
-![Image Filter](assets/Image%20Filter.png)
+![Image Filter](Images/Image%20Filter.png)
 
 Image Filter is a program for everyone to apply filters to the image of their choice. We are currently offering 6 artistic filters: *Grayscale*, *Vignette*, *Sepia*, *Pencil Sketch*, *Gaussian Grain*, and *Image Mosiac*. The last one is most fascinating and I'd recommend you trying that out.
 
