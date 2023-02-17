@@ -4,6 +4,8 @@
 
 Image Filter is a program for everyone to apply filters to the image of their choice. We are currently offering 6 artistic filters: *Grayscale*, *Vignette*, *Sepia*, *Pencil Sketch*, *Gaussian Grain*, and *Image Mosiac*. The last one is most fascinating and I'd recommend you trying that out.
 
+App lives at [Streamlit Cloud: Image Filter](https://ducquando-image-filter-image-filters-app-e1yr6o.streamlit.app/).
+
 ### Acknowledgements:
 - Professor Duong M. Phung from Fulbright University Vietnam
 - Aaron Grove for the [facemo project](https://github.com/MstrFunkBass/facemo) 
