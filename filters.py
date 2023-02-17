@@ -81,6 +81,7 @@ def gaussian_noise(img, var = 0.2):
 @st.cache_data
 def mosaic(img, size = 50):
     img_mosaic = img.copy()
+    img_mosaic = img_mosaic[:,:,::-1]
     
     # Pixelate the image by keeping every nth pixel
     mos_template = img_mosaic[::size, ::size]
